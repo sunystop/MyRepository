@@ -1,0 +1,24 @@
+PODS:
+  - KSYMediaPlayer_iOS (2.5.2)
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - KSYMediaPlayer_iOS (from `https://github.com/ksvc/KSYMediaPlayer_iOS.git`)
+  - Masonry
+
+EXTERNAL SOURCES:
+  KSYMediaPlayer_iOS:
+    :git: https://github.com/ksvc/KSYMediaPlayer_iOS.git
+
+CHECKOUT OPTIONS:
+  KSYMediaPlayer_iOS:
+    :commit: ed9cbfc2d0c3179a3b8c4366b6a236cb848780e3
+    :git: https://github.com/ksvc/KSYMediaPlayer_iOS.git
+
+SPEC CHECKSUMS:
+  KSYMediaPlayer_iOS: d908ca3fca0ab37b8a4bfd0edb4244b77c6f00b8
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: 864c26ee0fb2009b2571ee24fe6f6370cb2e0e9e
+
+COCOAPODS: 1.2.1.rc.1

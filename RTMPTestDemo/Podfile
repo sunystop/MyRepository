@@ -1,0 +1,8 @@
+platform :ios, '8.0'
+
+target "RTMPTestDemo" do
+
+pod 'KSYMediaPlayer_iOS', :git => 'https://github.com/ksvc/KSYMediaPlayer_iOS.git'
+pod 'Masonry'
+
+end
